@@ -5,7 +5,7 @@ Cloud Firestore, a database is used to save and retrieve the messages.
 Cloud Firestore is a database from Firebase and Google Cloud platform that is integrated with the application using Cocoapods. User Authentication is done by the Firebase.
 IQKeyboardManager is incorporated using Swift Package Manager for handling the functionalities of the keyboard.
 
-Woking:-
+Working of the app:-
 
 1. The application opens up with a welcome screen.
 
