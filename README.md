@@ -1,9 +1,9 @@
 # Anoniv-Chat
-This is an anonymous chat room where the identities of the sender and receiver are unknown. 
+This is an anonymous chat room in which the identities of the sender and receiver remain unknown. 
 This application is coded for iOS using Swift language in Xcode.
 Cloud Firestore, a database is used to save and retrieve the messages.
 Cloud Firestore is a database from Firebase and Google Cloud platform. Firebase is integrated with the application using Cocoapods. Firebase provides the functionality of User Authentication.
-IQKeyboardManager is incorporated using Swift Package Manager for handling the functionalities of the keyboard.
+IQKeyboardManager is incorporated using Swift Package Manager to handle the functionalities of the keyboard.
 
 Working of the app:-
 
